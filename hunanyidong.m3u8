@@ -3807,6 +3807,14 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381025/main.m3u8
 #EXTINF:-1 group-title="卫视直播" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png",纪实科教
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/main.m3u8
+#EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png",哒啵赛事
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=2
+#EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png",哒啵赛事
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=2
+#EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png",游戏风云
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/main.m3u8
+#EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210562120685964078060674/main.m3u8
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png",湖南娱乐
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u8?
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png",湖南电视剧
@@ -3993,10 +4001,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211003612942969703619
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000003000000104063/main.m3u8
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000004000000182438/main.m3u8
-#EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png",游戏风云
-http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211010049110856436458678/main.m3u8
-#EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
-http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210562120685964078060674/main.m3u8
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png",生活时尚
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211012947472200435228155/main.m3u8
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
@@ -4039,10 +4043,6 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/动作电影.png",动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8
-#EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png",哒啵赛事
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=2
-#EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png",哒啵赛事
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=2
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png",黑莓电影
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
@@ -4803,6 +4803,7 @@ http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308847/index.m3u8
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007227/main.m3u8
+
 
 
 
