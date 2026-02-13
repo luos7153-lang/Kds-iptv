@@ -1159,7 +1159,7 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=2
 #EXTINF:-1 group-title="央视直播" tvg-logo="https://live.fanmingming.com/tv/NewTV中国功夫.png",NewTV中国功夫
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
-#EXTINF:-1 group-title="卫视直播" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4k.png",湖南卫视4k
+#EXTINF:-1 group-title="卫视直播" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png",湖南卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
 #EXTINF:-1 group-title="卫视直播" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png",江苏卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262178928213010539289/main.m3u8
@@ -4803,5 +4803,6 @@ http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308847/index.m3u8
 #EXTINF:-1 group-title="其他地方台" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007227/main.m3u8
+
 
 
